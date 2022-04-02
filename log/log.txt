@@ -1,0 +1,6 @@
+directory:/Users/rutwikpatel/eclipse-workspace/COMP6481_Assignment2/data/1
+	file:/Users/rutwikpatel/eclipse-workspace/COMP6481_Assignment2/data/1/Tom.txt
+directory:/Users/rutwikpatel/eclipse-workspace/COMP6481_Assignment2/data/3
+	file:/Users/rutwikpatel/eclipse-workspace/COMP6481_Assignment2/data/3/Harry.txt
+directory:/Users/rutwikpatel/eclipse-workspace/COMP6481_Assignment2/data/2
+	file:/Users/rutwikpatel/eclipse-workspace/COMP6481_Assignment2/data/2/Sam.txt
